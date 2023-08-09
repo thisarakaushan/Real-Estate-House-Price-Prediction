@@ -1,12 +1,11 @@
-# Real Estate House Price Prediction
+# Real Estate Price Prediction
 
 This repository contains code for predicting house prices using **Multiple Linear Regression**, **Support Vector Regression**, and **Random Forest Regression**.
 
 ## Table of Contents
 - [Introduction](https://github.com/thisarakaushan/Real-Estate-Price-Prediction/edit/main/README.md)
 - [Data](./dataset/data.csv)
-- [Usage](#usage)
-- [Models](#models)
+- [Models](https://github.com/thisarakaushan/Real-Estate-Price-Prediction/tree/main/notebook)
 
 ## Introduction
 
@@ -19,6 +18,7 @@ We used a dataset containing various features of houses, such as the number of b
 ## Usage
 
 1. **Clone the Repository:**
+   
 ```git clone https://github.com/thisarakaushan/Real-Estate-Price-Prediction.git```
 
 ## Models
