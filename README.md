@@ -19,7 +19,9 @@ We used a dataset containing various features of houses, such as the number of b
 
 1. **Clone the Repository:**
    
-```git clone https://github.com/thisarakaushan/Real-Estate-Price-Prediction.git```
+```
+   git clone https://github.com/thisarakaushan/Real-Estate-Price-Prediction.git
+```
 
 ## Models
 
